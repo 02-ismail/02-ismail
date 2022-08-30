@@ -1,0 +1,38 @@
+ .container-fluid{ 
+    background-color:gray;
+   }
+   .navbar-brand h1 {
+    font-family: Sans-Serif;
+    font-size:1.5em ;
+    color:black;
+    text-transform:uppercase ;
+    text-shadow: 1px 1px 1px #222;
+    Font-weight:bold;
+    margin-top:0 ;
+    margin-bottom: 0;
+    line-height: .75;
+  }
+
+   
+  #myNavbar { 
+    Background-color : white;
+    text-align:center;
+    Border-radius:0;
+    Border:1px solid black;
+    font-family: Sans-Serif;
+    font-size:1.5em ;
+    color:black;
+    }
+   
+   .my{border: 2px solid black;}
+    
+   h2, h3 {
+     text-align: center ;
+     Text-weight:bold;
+   }
+  
+   Section {
+   background-color: gray;
+   Margin :30px;}
+    
+ 
